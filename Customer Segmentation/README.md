@@ -20,8 +20,11 @@ The insights contains -
 -Customer Distribution by Age,Gender
 -Customer Distribution by Job Classification
 
-[Dashboard](https://github.com/manishsahu7158/Portfolio/blob/main/Customer%20Segmentation/Story%201.pdf)
+[Dashboard](https://github.com/manishsahu7158/Portfolio/blob/main/Customer%20Segmentation/UK_Bank_Customer_Segmentation.pdf)
 
 ## Recommendation
--
+-England is primarily represented by white-collar workers. Therefore, the bank should concentrate on the White-Collar Workers of England.
+-In Scotland, the bank should target male customers aged 40-50.
+-The bank should concentrate on White-Collar workers aged 30-40 in Wales.
+-Northern Ireland is mainly represented by female customers in the younger age group. Therefore, the bank should target female customers aged 25-35.
 
