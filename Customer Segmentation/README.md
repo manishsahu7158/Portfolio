@@ -15,10 +15,10 @@ The dataset is available in [superdatascience.com](https://www.superdatascience.
 I have used Tableau to prepare the dashbaord.
 
 The insights contains -
--Customer Distribution by Regions
--Customer Distribution by Balance
--Customer Distribution by Age,Gender
--Customer Distribution by Job Classification
+- Customer Distribution by Regions
+- Customer Distribution by Balance
+- Customer Distribution by Age,Gender
+- Customer Distribution by Job Classification
 
 [Dashboard](https://github.com/manishsahu7158/Portfolio/blob/main/Customer%20Segmentation/UK_Bank_Customer_Segmentation.pdf)
 
