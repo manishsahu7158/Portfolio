@@ -7,3 +7,4 @@ This repository contains all the project of my Data Analyst Portfolio
 | 1 | [Customer Segmantation] |(https://github.com/manishsahu7158/Portfolio/tree/main/Customer%20Segmentation) | Identify the target market for the launch of a new service.
 | 2 | [Maven Market Analytics] | To unlock sales insights for decision support.
 | 3 | [Adventure Work Cycles Analytics] | To unlock sales insights for decision support.
+| 7 | [Sales Insights](https://github.com/IronStark007/Data-Analyst-Portfolio/tree/master/Sales%20Insights) | To Unlock Sales Insights for decision support
